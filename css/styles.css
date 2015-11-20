@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=Satisfy|Open+Sans);
+/*header*/
+.logo {
+	width:90px;
+}
+
+header h1 {
+	font-family: 'Satisfy', cursive;
+	color:#FF827B;
+	margin-top: 20px;
+}
+
+.nav li {
+	font-size: 20px;
+}
+
+li a {
+	color:#61AEE6;
+	font-family: 'Open Sans';
+	font-weight:400;
+
+}
+
+a:hover {
+	color:#FF827B;
+}
+
+.bottom {
+	top: 20px;
+}
+/*end of header*/
+.jumbotron{
+	background-image: url(../img/hero.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 450px;
+}
+
+.jumbotron h2 {
+	font-family: 'Open Sans';
+	font-weight: 300;
+	color:#fff;
+}
+/*jumbotron*/
+
+
+
+
+
+
+
+
+
+
+
+
+
